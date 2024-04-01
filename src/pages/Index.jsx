@@ -19,7 +19,7 @@ const Index = () => {
       <Container maxW="container.lg" py={20}>
         <SimpleGrid columns={{ base: 1, md: 2 }} spacing={10}>
           <Box>
-            <Image src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG9mJTIwYSUyMGZlbmNpbmclMjBjb250cmFjdG9yfGVufDB8fHx8MTcxMTk5MDcyOXww&ixlib=rb-4.0.3&q=80&w=1080" alt="Árvai Kerítés" borderRadius="md" />
+            <Image src="https://www.arvai-kerites.hu/images/about-us.jpg" alt="Árvai Kerítés" borderRadius="md" />
           </Box>
           <Stack spacing={6}>
             <Heading as="h2" size="xl">
@@ -39,21 +39,21 @@ const Index = () => {
           </Heading>
           <SimpleGrid columns={{ base: 1, md: 3 }} spacing={8}>
             <Box bg="white" p={6} borderRadius="md" textAlign="center">
-              <Image src="https://images.unsplash.com/photo-1551584284-d3f7b68c8bd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHx3b29kZW4lMjBmZW5jZXxlbnwwfHx8fDE3MTE5OTA3MzB8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Wooden Fences" borderRadius="md" mb={4} />
+              <Image src="https://www.arvai-kerites.hu/images/wooden-fence.jpg" alt="Wooden Fences" borderRadius="md" mb={4} />
               <Heading as="h3" size="lg" mb={2}>
                 Wooden Fences
               </Heading>
               <Text>Durable and attractive wooden fences for your property.</Text>
             </Box>
             <Box bg="white" p={6} borderRadius="md" textAlign="center">
-              <Image src="https://images.unsplash.com/photo-1517265598349-76511a2fb389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxtZXRhbCUyMGZlbmNlfGVufDB8fHx8MTcxMTk5MDczMHww&ixlib=rb-4.0.3&q=80&w=1080" alt="Metal Fences" borderRadius="md" mb={4} />
+              <Image src="https://www.arvai-kerites.hu/images/metal-fence.jpg" alt="Metal Fences" borderRadius="md" mb={4} />
               <Heading as="h3" size="lg" mb={2}>
                 Metal Fences
               </Heading>
               <Text>Sturdy and secure metal fences for enhanced protection.</Text>
             </Box>
             <Box bg="white" p={6} borderRadius="md" textAlign="center">
-              <Image src="https://images.unsplash.com/photo-1475563340272-e582cb6f7db1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjdXN0b20lMjBmZW5jZSUyMGRlc2lnbnxlbnwwfHx8fDE3MTE5OTA3MzF8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Custom Fences" borderRadius="md" mb={4} />
+              <Image src="https://www.arvai-kerites.hu/images/custom-fence.jpg" alt="Custom Fences" borderRadius="md" mb={4} />
               <Heading as="h3" size="lg" mb={2}>
                 Custom Fences
               </Heading>
