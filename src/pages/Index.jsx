@@ -46,11 +46,11 @@ const Index = () => {
               <Text>Durable and attractive wooden fences for your property.</Text>
             </Box>
             <Box bg="white" p={6} borderRadius="md" textAlign="center">
-              <Image src="https://www.arvai-kerites.hu/images/metal-fence.jpg" alt="Metal Fences" borderRadius="md" mb={4} />
+              <Image src="https://www.arvai-kerites.hu/images/metal-rigid-fence.jpg" alt="Metal Rigid Fences" borderRadius="md" mb={4} />
               <Heading as="h3" size="lg" mb={2}>
-                Metal Fences
+                Metal Rigid Fences
               </Heading>
-              <Text>Sturdy and secure metal fences for enhanced protection.</Text>
+              <Text>Durable and stylish metal rigid fences for your property.</Text>
             </Box>
             <Box bg="white" p={6} borderRadius="md" textAlign="center">
               <Image src="https://www.arvai-kerites.hu/images/custom-fence.jpg" alt="Custom Fences" borderRadius="md" mb={4} />
